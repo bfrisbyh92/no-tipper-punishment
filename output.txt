@@ -1,0 +1,29 @@
+Total 28 providers available
+gotinder    : failed
+dream11     : failed
+justdial    : failed
+grofers     : success
+pharmeasy   : success
+youla.ru    : failed
+confirmtkt  : success
+icq.com     : failed
+unacademy   : success
+happyeasygo : failed
+cashify     : failed
+mail.ru     : success
+ivi.ru      : failed
+airtel      : failed
+ajio        : success
+qlean       : failed
+treebo      : success
+porter      : failed
+gapoon      : success
+frotels     : failed
+mobikwik    : success
+housing     : success
+mylescars   : failed
+cityflo     : failed
+flipkart    : success
+
+Success: 11 | Failed: 17
+Took 30.76s to complete
